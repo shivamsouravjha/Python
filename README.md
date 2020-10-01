@@ -10,13 +10,13 @@ Use this repo for contributing in open source.
 Start solving issues and raise the pull requests and even you can create your own issues.
 If you want to contribute to a project, the simplest way is to:
 
-Find a ISSUE you want to contribute to ->> Fork it
+Find an ISSUE you want to contribute to ->> Fork it
 
     Clone it to your local system
 
     Make a new branch
 
-    Make your changes
+    Make the changes in the code you think that are valid according to you
 
     Push it back to your repo
 
@@ -26,7 +26,7 @@ Find a ISSUE you want to contribute to ->> Fork it
 
 If the reviewers ask for changes, repeat steps 5 and 6 to add more commits to your pull request.
 
-The implementations/codes which are added/merged in Python-:
+The implementations/codes  are then added/merged in Python-:
 
 
 
